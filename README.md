@@ -1,6 +1,7 @@
 # «Работа с переменными»
 Выводы:
 Присутствуют ли в этом признаке выбросы?
-![Image alt](https://github.com/sab2elizaveta/netology_dz_2/raw/main/C:\Users\hia14\OneDrive\Изображения/Figure_1.png)
+<img width="1920" height="967" alt="Figure_1" src="https://github.com/user-attachments/assets/0e584114-4759-44d3-93db-53e93fefadf8" />
+
 
 
