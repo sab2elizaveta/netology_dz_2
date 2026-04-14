@@ -1,7 +1,8 @@
 # «Работа с переменными»
 Выводы:
 Присутствуют ли в этом признаке выбросы?
-<img width="1920" height="967" alt="Figure_1" src="https://github.com/user-attachments/assets/0e584114-4759-44d3-93db-53e93fefadf8" />
+<img width="600" height="400" alt="GR_1" src="https://github.com/user-attachments/assets/b485ef5f-c5ae-4293-b81f-a33a680eae73" />
+
 
 
 
